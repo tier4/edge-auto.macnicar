@@ -37,12 +37,12 @@ repositories:
     version: 47964112293eb19f9f57254b2e6b68706954cc63
   individual_params:
     type: git
-    url: https://github.com/tier4/edge_auto_individual_params.git
-    version: cad817b30dfb6e3924eb11f300e28165cb837653
+    url: https://github.com/tier4/edge_auto_individual_params.macnicar.git
+    version: main
   launcher:
     type: git
-    url: https://github.com/tier4/edge_auto_launch.git
-    version: 9c3c27e2ee0104daf793a9df9b87fb9b9e96b352
+    url: https://github.com/tier4/edge_auto_launch.macnicar.git
+    version: main
   lidartag:
     type: git
     url: https://github.com/tier4/LiDARTag.git
